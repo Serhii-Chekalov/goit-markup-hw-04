@@ -75,6 +75,7 @@ p, h1, h2, h3 {
 .header {
   background-color: #fff;
   min-height: 80px;
+  border-bottom: 1px solid #ECECEC;
 }
 
 .nav{
@@ -244,6 +245,7 @@ p, h1, h2, h3 {
 .team {
   background-color: rgba(245,244,250,1);
   padding-bottom: 94px;
+  padding-top: 94px;
 }
 
 .team-container {
